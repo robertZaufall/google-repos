@@ -6,7 +6,7 @@
         "google/CommonLoopUtils": {
           "forks": 33,
           "pushed_at": "2026-07-07T23:49:42Z",
-          "stars": 369
+          "stars": 370
         },
         "google/EarlGrey": {
           "forks": 736,
@@ -16,7 +16,7 @@
         "google/GNM": {
           "forks": 142,
           "pushed_at": "2026-07-29T12:45:11Z",
-          "stars": 1269
+          "stars": 1272
         },
         "google/GTMAppAuth": {
           "forks": 244,
@@ -40,7 +40,7 @@
         },
         "google/XNNPACK": {
           "forks": 534,
-          "pushed_at": "2026-07-29T20:40:21Z",
+          "pushed_at": "2026-07-30T04:28:36Z",
           "stars": 2411
         },
         "google/Xee": {
@@ -49,14 +49,14 @@
           "stars": 367
         },
         "google/adk-docs": {
-          "forks": 1192,
+          "forks": 1190,
           "pushed_at": "2026-07-29T18:43:48Z",
           "stars": 1456
         },
         "google/adk-go": {
-          "forks": 862,
+          "forks": 870,
           "pushed_at": "2026-07-29T10:44:58Z",
-          "stars": 8554
+          "stars": 8557
         },
         "google/adk-java": {
           "forks": 381,
@@ -64,19 +64,19 @@
           "stars": 1661
         },
         "google/adk-js": {
-          "forks": 179,
+          "forks": 180,
           "pushed_at": "2026-07-29T18:42:36Z",
           "stars": 1326
         },
         "google/adk-python": {
           "forks": 3770,
-          "pushed_at": "2026-07-30T00:27:15Z",
-          "stars": 20939
+          "pushed_at": "2026-07-30T01:07:25Z",
+          "stars": 20942
         },
         "google/adk-samples": {
           "forks": 2776,
           "pushed_at": "2026-07-29T23:31:52Z",
-          "stars": 9992
+          "stars": 9994
         },
         "google/adk-web": {
           "forks": 250,
@@ -84,9 +84,9 @@
           "stars": 1007
         },
         "google/agents-cli": {
-          "forks": 572,
+          "forks": 576,
           "pushed_at": "2026-07-23T19:53:43Z",
-          "stars": 5405
+          "stars": 5411
         },
         "google/alioth": {
           "forks": 29,
@@ -100,7 +100,7 @@
         },
         "google/android-cuttlefish": {
           "forks": 228,
-          "pushed_at": "2026-07-30T00:24:50Z",
+          "pushed_at": "2026-07-30T06:52:54Z",
           "stars": 687
         },
         "google/android-emulator-container-scripts": {
@@ -110,12 +110,12 @@
         },
         "google/angle": {
           "forks": 746,
-          "pushed_at": "2026-07-29T23:52:23Z",
+          "pushed_at": "2026-07-30T03:12:26Z",
           "stars": 4052
         },
         "google/aqt": {
           "forks": 33,
-          "pushed_at": "2026-07-29T17:02:50Z",
+          "pushed_at": "2026-07-30T02:07:35Z",
           "stars": 358
         },
         "google/argh": {
@@ -141,7 +141,7 @@
         "google/autocxx": {
           "forks": 175,
           "pushed_at": "2026-07-27T18:00:16Z",
-          "stars": 2551
+          "stars": 2552
         },
         "google/autofdo": {
           "forks": 126,
@@ -161,10 +161,10 @@
         "google/benchmark": {
           "forks": 1784,
           "pushed_at": "2026-07-29T20:03:30Z",
-          "stars": 10311
+          "stars": 10312
         },
         "google/bindiff": {
-          "forks": 235,
+          "forks": 236,
           "pushed_at": "2026-07-27T09:00:47Z",
           "stars": 3118
         },
@@ -181,7 +181,7 @@
         "google/boringssl": {
           "forks": 897,
           "pushed_at": "2026-07-29T17:36:41Z",
-          "stars": 2240
+          "stars": 2241
         },
         "google/brax": {
           "forks": 346,
@@ -196,7 +196,7 @@
         "google/brotli": {
           "forks": 1351,
           "pushed_at": "2026-07-29T15:34:08Z",
-          "stars": 14815
+          "stars": 14816
         },
         "google/brunsli": {
           "forks": 54,
@@ -231,7 +231,7 @@
         "google/cadvisor": {
           "forks": 2482,
           "pushed_at": "2026-07-20T21:23:51Z",
-          "stars": 19319
+          "stars": 19318
         },
         "google/caliper": {
           "forks": 110,
@@ -270,7 +270,7 @@
         },
         "google/closure-compiler": {
           "forks": 1179,
-          "pushed_at": "2026-07-29T21:19:14Z",
+          "pushed_at": "2026-07-30T04:40:46Z",
           "stars": 7670
         },
         "google/closure-templates": {
@@ -301,7 +301,7 @@
         "google/comprehensive-rust": {
           "forks": 2053,
           "pushed_at": "2026-07-28T14:00:51Z",
-          "stars": 33271
+          "stars": 33272
         },
         "google/conscrypt": {
           "forks": 324,
@@ -309,7 +309,7 @@
           "stars": 1398
         },
         "google/copybara": {
-          "forks": 337,
+          "forks": 338,
           "pushed_at": "2026-07-29T17:25:44Z",
           "stars": 3765
         },
@@ -330,7 +330,7 @@
         },
         "google/crubit": {
           "forks": 73,
-          "pushed_at": "2026-07-30T00:17:28Z",
+          "pushed_at": "2026-07-30T06:52:47Z",
           "stars": 1060
         },
         "google/csp-evaluator": {
@@ -396,7 +396,7 @@
         "google/draco": {
           "forks": 1062,
           "pushed_at": "2026-07-01T20:31:57Z",
-          "stars": 7425
+          "stars": 7424
         },
         "google/earthengine-api": {
           "forks": 1083,
@@ -415,8 +415,8 @@
         },
         "google/error-prone": {
           "forks": 808,
-          "pushed_at": "2026-07-29T23:17:15Z",
-          "stars": 7213
+          "pushed_at": "2026-07-30T06:10:46Z",
+          "stars": 7214
         },
         "google/etils": {
           "forks": 32,
@@ -450,13 +450,13 @@
         },
         "google/filament": {
           "forks": 2215,
-          "pushed_at": "2026-07-29T23:59:48Z",
-          "stars": 20307
+          "pushed_at": "2026-07-30T01:16:34Z",
+          "stars": 20308
         },
         "google/flatbuffers": {
           "forks": 3613,
           "pushed_at": "2026-06-22T13:45:05Z",
-          "stars": 26271
+          "stars": 26272
         },
         "google/flax": {
           "forks": 826,
@@ -476,7 +476,7 @@
         "google/fonts": {
           "forks": 2910,
           "pushed_at": "2026-07-29T10:51:18Z",
-          "stars": 20287
+          "stars": 20288
         },
         "google/fscrypt": {
           "forks": 108,
@@ -495,7 +495,7 @@
         },
         "google/fuzztest": {
           "forks": 132,
-          "pushed_at": "2026-07-29T22:30:46Z",
+          "pushed_at": "2026-07-30T01:19:46Z",
           "stars": 1033
         },
         "google/gemma.cpp": {
@@ -536,12 +536,12 @@
         "google/go-cmp": {
           "forks": 237,
           "pushed_at": "2026-06-18T07:33:22Z",
-          "stars": 4669
+          "stars": 4670
         },
         "google/go-containerregistry": {
           "forks": 664,
           "pushed_at": "2026-07-29T23:42:15Z",
-          "stars": 3992
+          "stars": 3993
         },
         "google/go-github": {
           "forks": 2459,
@@ -590,7 +590,7 @@
         },
         "google/google-java-format": {
           "forks": 929,
-          "pushed_at": "2026-07-29T18:38:59Z",
+          "pushed_at": "2026-07-30T06:12:13Z",
           "stars": 6166
         },
         "google/google-toolbox-for-mac": {
@@ -611,7 +611,7 @@
         "google/googletest": {
           "forks": 10837,
           "pushed_at": "2026-07-29T18:09:06Z",
-          "stars": 38879
+          "stars": 38880
         },
         "google/googletest-rust": {
           "forks": 34,
@@ -649,12 +649,12 @@
           "stars": 5084
         },
         "google/gsocguides": {
-          "forks": 202,
+          "forks": 203,
           "pushed_at": "2026-07-14T16:27:56Z",
           "stars": 536
         },
         "google/gson": {
-          "forks": 4458,
+          "forks": 4459,
           "pushed_at": "2026-07-29T20:53:19Z",
           "stars": 24230
         },
@@ -664,19 +664,19 @@
           "stars": 288
         },
         "google/guava": {
-          "forks": 11144,
+          "forks": 11143,
           "pushed_at": "2026-07-29T17:09:17Z",
-          "stars": 51536
+          "stars": 51535
         },
         "google/guice": {
-          "forks": 1683,
+          "forks": 1682,
           "pushed_at": "2026-07-02T07:17:11Z",
-          "stars": 12732
+          "stars": 12730
         },
         "google/gvisor": {
-          "forks": 1816,
-          "pushed_at": "2026-07-30T00:36:13Z",
-          "stars": 18915
+          "forks": 1820,
+          "pushed_at": "2026-07-30T06:09:22Z",
+          "stars": 18920
         },
         "google/gwpsan": {
           "forks": 11,
@@ -685,7 +685,7 @@
         },
         "google/heir": {
           "forks": 150,
-          "pushed_at": "2026-07-29T18:26:28Z",
+          "pushed_at": "2026-07-30T01:58:36Z",
           "stars": 752
         },
         "google/highway": {
@@ -715,7 +715,7 @@
         },
         "google/j2cl": {
           "forks": 159,
-          "pushed_at": "2026-07-29T21:24:29Z",
+          "pushed_at": "2026-07-30T03:00:35Z",
           "stars": 1372
         },
         "google/j2objc": {
@@ -791,12 +791,12 @@
         "google/kube-startup-cpu-boost": {
           "forks": 37,
           "pushed_at": "2026-07-29T12:15:35Z",
-          "stars": 645
+          "stars": 646
         },
         "google/langextract": {
           "forks": 2633,
           "pushed_at": "2026-07-25T21:17:50Z",
-          "stars": 37923
+          "stars": 37924
         },
         "google/langfun": {
           "forks": 79,
@@ -820,12 +820,12 @@
         },
         "google/libphonenumber": {
           "forks": 2167,
-          "pushed_at": "2026-07-29T06:36:52Z",
-          "stars": 18157
+          "pushed_at": "2026-07-30T05:44:44Z",
+          "stars": 18158
         },
         "google/libultrahdr": {
-          "forks": 66,
-          "pushed_at": "2026-07-30T00:37:09Z",
+          "forks": 67,
+          "pushed_at": "2026-07-30T00:57:54Z",
           "stars": 330
         },
         "google/llvm-propeller": {
@@ -839,9 +839,9 @@
           "stars": 1294
         },
         "google/magika": {
-          "forks": 1106,
+          "forks": 1107,
           "pushed_at": "2026-07-29T12:27:57Z",
-          "stars": 17827
+          "stars": 17835
         },
         "google/mangle": {
           "forks": 153,
@@ -854,7 +854,7 @@
           "stars": 593
         },
         "google/material-design-icons": {
-          "forks": 9745,
+          "forks": 9743,
           "pushed_at": "2026-07-24T03:10:34Z",
           "stars": 53677
         },
@@ -885,7 +885,7 @@
         },
         "google/meridian": {
           "forks": 277,
-          "pushed_at": "2026-07-30T00:16:35Z",
+          "pushed_at": "2026-07-30T05:25:12Z",
           "stars": 1471
         },
         "google/minijail": {
@@ -916,7 +916,7 @@
         "google/model-viewer": {
           "forks": 942,
           "pushed_at": "2026-07-07T21:23:39Z",
-          "stars": 8179
+          "stars": 8180
         },
         "google/mount-zip": {
           "forks": 22,
@@ -930,12 +930,12 @@
         },
         "google/mug": {
           "forks": 85,
-          "pushed_at": "2026-07-29T23:57:06Z",
+          "pushed_at": "2026-07-30T06:42:30Z",
           "stars": 528
         },
         "google/nearby": {
           "forks": 206,
-          "pushed_at": "2026-07-30T00:44:33Z",
+          "pushed_at": "2026-07-30T02:00:05Z",
           "stars": 959
         },
         "google/neuroglancer": {
@@ -969,7 +969,7 @@
           "stars": 4079
         },
         "google/openhtf": {
-          "forks": 233,
+          "forks": 234,
           "pushed_at": "2026-07-28T21:08:11Z",
           "stars": 712
         },
@@ -980,37 +980,37 @@
         },
         "google/orbax": {
           "forks": 103,
-          "pushed_at": "2026-07-29T22:00:12Z",
+          "pushed_at": "2026-07-30T02:41:53Z",
           "stars": 526
         },
         "google/osdfir-infrastructure": {
-          "forks": 30,
+          "forks": 31,
           "pushed_at": "2026-07-17T06:20:31Z",
           "stars": 210
         },
         "google/oss-fuzz": {
-          "forks": 2832,
+          "forks": 2833,
           "pushed_at": "2026-07-29T22:52:59Z",
-          "stars": 12477
+          "stars": 12478
         },
         "google/oss-rebuild": {
           "forks": 62,
           "pushed_at": "2026-07-29T22:24:48Z",
-          "stars": 712
+          "stars": 713
         },
         "google/osv-scalibr": {
           "forks": 178,
-          "pushed_at": "2026-07-30T00:17:40Z",
+          "pushed_at": "2026-07-30T00:50:54Z",
           "stars": 631
         },
         "google/osv-scanner": {
           "forks": 737,
-          "pushed_at": "2026-07-29T21:18:32Z",
-          "stars": 10706
+          "pushed_at": "2026-07-30T04:03:03Z",
+          "stars": 10707
         },
         "google/osv.dev": {
           "forks": 346,
-          "pushed_at": "2026-07-29T23:22:57Z",
+          "pushed_at": "2026-07-30T05:51:32Z",
           "stars": 2849
         },
         "google/pack": {
@@ -1034,9 +1034,9 @@
           "stars": 347
         },
         "google/perfetto": {
-          "forks": 846,
+          "forks": 847,
           "pushed_at": "2026-07-29T18:23:47Z",
-          "stars": 6292
+          "stars": 6295
         },
         "google/play-services-plugins": {
           "forks": 167,
@@ -1085,7 +1085,7 @@
         },
         "google/quiche": {
           "forks": 175,
-          "pushed_at": "2026-07-29T22:21:25Z",
+          "pushed_at": "2026-07-30T01:22:03Z",
           "stars": 880
         },
         "google/rax": {
@@ -1166,7 +1166,7 @@
         "google/security-research": {
           "forks": 578,
           "pushed_at": "2026-07-28T14:42:03Z",
-          "stars": 4590
+          "stars": 4592
         },
         "google/seesaw": {
           "forks": 507,
@@ -1175,8 +1175,8 @@
         },
         "google/sentencepiece": {
           "forks": 1374,
-          "pushed_at": "2026-07-29T16:59:13Z",
-          "stars": 11996
+          "pushed_at": "2026-07-30T06:44:50Z",
+          "stars": 11997
         },
         "google/seqio": {
           "forks": 58,
@@ -1200,18 +1200,18 @@
         },
         "google/skia": {
           "forks": 1748,
-          "pushed_at": "2026-07-30T00:17:49Z",
+          "pushed_at": "2026-07-30T06:26:49Z",
           "stars": 10852
         },
         "google/skills": {
           "forks": 1201,
           "pushed_at": "2026-07-29T22:17:13Z",
-          "stars": 15329
+          "stars": 15340
         },
         "google/skywater-pdk": {
           "forks": 483,
           "pushed_at": "2026-07-21T22:02:44Z",
-          "stars": 3617
+          "stars": 3618
         },
         "google/slo-generator": {
           "forks": 89,
@@ -1236,17 +1236,17 @@
         "google/starlark-go": {
           "forks": 243,
           "pushed_at": "2026-07-10T21:17:05Z",
-          "stars": 2735
+          "stars": 2736
         },
         "google/styleguide": {
           "forks": 12948,
           "pushed_at": "2026-06-03T15:51:23Z",
-          "stars": 39473
+          "stars": 39476
         },
         "google/swiftshader": {
-          "forks": 331,
+          "forks": 332,
           "pushed_at": "2026-07-07T22:00:45Z",
-          "stars": 2515
+          "stars": 2517
         },
         "google/syzkaller": {
           "forks": 1432,
@@ -1260,8 +1260,8 @@
         },
         "google/tcmalloc": {
           "forks": 560,
-          "pushed_at": "2026-07-29T21:59:03Z",
-          "stars": 5298
+          "pushed_at": "2026-07-30T04:21:42Z",
+          "stars": 5297
         },
         "google/tensorstore": {
           "forks": 144,
@@ -1310,7 +1310,7 @@
         },
         "google/tunix": {
           "forks": 326,
-          "pushed_at": "2026-07-30T00:45:45Z",
+          "pushed_at": "2026-07-30T06:29:08Z",
           "stars": 2387
         },
         "google/turbinia": {
@@ -1361,7 +1361,7 @@
         "google/woff2": {
           "forks": 230,
           "pushed_at": "2026-06-29T17:04:31Z",
-          "stars": 1811
+          "stars": 1812
         },
         "google/wuffs": {
           "forks": 144,
@@ -1369,9 +1369,9 @@
           "stars": 4794
         },
         "google/xls": {
-          "forks": 266,
-          "pushed_at": "2026-07-30T00:28:05Z",
-          "stars": 1801
+          "forks": 267,
+          "pushed_at": "2026-07-30T01:38:53Z",
+          "stars": 1804
         },
         "google/xrblocks": {
           "forks": 89,
@@ -1401,7 +1401,7 @@
         "google/zx": {
           "forks": 1277,
           "pushed_at": "2026-07-25T10:24:08Z",
-          "stars": 45635
+          "stars": 45636
         }
       }
     }
