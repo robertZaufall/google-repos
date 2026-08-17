@@ -58,6 +58,8 @@ AUTO_KEYWORD_TERMS: tuple[tuple[str, tuple[str, ...]], ...] = (
     ("Data", ("dataset", "data processing", "analytics")),
     ("Science", ("health", "genomics", "scientific")),
     ("Benchmark", ("benchmark", "evaluation")),
+    ("ADK", ("adk", "agent development kit")),
+    ("XR", ("webxr", "xr blocks", "immersive")),
 )
 SUBSTRING_KEYWORDS: set[str] = set()
 
@@ -496,8 +498,13 @@ def cluster_repo(repo: dict[str, Any]) -> Cluster:
         ]
     ).lower()
     name_overrides = {
+        "adk-docs": "ai-agents-ml",
+        "adk-go": "ai-agents-ml",
+        "adk-java": "ai-agents-ml",
+        "adk-js": "ai-agents-ml",
         "adk-python": "ai-agents-ml",
         "adk-samples": "ai-agents-ml",
+        "adk-web": "ai-agents-ml",
         "agents-cli": "ai-agents-ml",
         "ax": "ai-agents-ml",
         "brax": "ai-agents-ml",
@@ -597,6 +604,7 @@ def cluster_repo(repo: dict[str, Any]) -> Cluster:
         "skia": "graphics-media-xr",
         "swiftshader": "graphics-media-xr",
         "woff2": "graphics-media-xr",
+        "xrblocks": "graphics-media-xr",
         "zimtohrli": "graphics-media-xr",
         "android-cuttlefish": "android-web-platforms",
         "automotive-design-compose": "android-web-platforms",
@@ -649,6 +657,8 @@ def cluster_repo(repo: dict[str, Any]) -> Cluster:
             "graphics",
             "rendering",
             "video",
+            "webxr",
+            "xr blocks",
         ),
         "cloud-containers-systems": (
             "cloud",
