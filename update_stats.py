@@ -502,6 +502,7 @@ def cluster_repo(repo: dict[str, Any]) -> Cluster:
         "adk-go": "ai-agents-ml",
         "adk-java": "ai-agents-ml",
         "adk-js": "ai-agents-ml",
+        "adk-kotlin": "ai-agents-ml",
         "adk-python": "ai-agents-ml",
         "adk-samples": "ai-agents-ml",
         "adk-web": "ai-agents-ml",
