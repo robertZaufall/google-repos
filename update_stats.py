@@ -604,6 +604,7 @@ def cluster_repo(repo: dict[str, Any]) -> Cluster:
         "security-research": "security-privacy-reliability",
         "syzkaller": "security-privacy-reliability",
         "vxsig": "security-privacy-reliability",
+        "kafel": "security-privacy-reliability",
         "amber": "graphics-media-xr",
         "angle": "graphics-media-xr",
         "brunsli": "graphics-media-xr",
