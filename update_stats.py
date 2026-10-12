@@ -556,6 +556,7 @@ def cluster_repo(repo: dict[str, Any]) -> Cluster:
         "adk-samples": "ai-agents-ml",
         "adk-web": "ai-agents-ml",
         "agents-cli": "ai-agents-ml",
+        "agentmesh": "ai-agents-ml",
         "artemis": "ai-agents-ml",
         "aqt": "ai-agents-ml",
         "ax": "ai-agents-ml",
