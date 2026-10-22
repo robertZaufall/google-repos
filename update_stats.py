@@ -657,6 +657,7 @@ def cluster_repo(repo: dict[str, Any]) -> Cluster:
         "recaptcha": "security-privacy-reliability",
         "rust-crate-audits": "security-privacy-reliability",
         "heir": "security-privacy-reliability",
+        "hiba": "security-privacy-reliability",
         "mantis": "security-privacy-reliability",
         "nsjail": "security-privacy-reliability",
         "oss-fuzz": "security-privacy-reliability",
