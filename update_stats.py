@@ -42,6 +42,9 @@ MIN_STARS = 201
 # via GET /repos/{org}/{name}; ownership is re-checked so transfers are skipped.
 SEARCH_INDEX_SUPPLEMENT: tuple[str, ...] = (
     "slowjam",
+    # Evidence 2026-10-24: 1.4k★ LLM-powered fuzzing (topics ai/fuzzing/llm/security),
+    # pushed 2026-10-23, absent from the org+stars+pushed search results.
+    "oss-fuzz-gen",
 )
 TOP_PER_CLUSTER = 0
 TRACTION_DAYS = 30
