@@ -658,6 +658,9 @@ def cluster_repo(repo: dict[str, Any]) -> Cluster:
         "gwpsan": "security-privacy-reliability",
         "grr": "security-privacy-reliability",
         "cloud-forensics-utils": "security-privacy-reliability",
+        # Evidence 2026-11-19: DFIQ (Digital Forensics Investigative Questions,
+        # OSDFIR sibling of Timesketch/Turbinia) fell back to Languages & SDKs.
+        "dfiq": "security-privacy-reliability",
         "libprotobuf-mutator": "security-privacy-reliability",
         "slo-generator": "security-privacy-reliability",
         "recaptcha": "security-privacy-reliability",
